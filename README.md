@@ -1,5 +1,5 @@
 
-## Adversarial Game Optimization Algorithm
+## AGOA: Adversarial Game Optimization Algorithm
 
 **Title**: Adversarial Game Optimization Algorithm: A novel metaheuristic optimization approach for complex optimization problem
 
