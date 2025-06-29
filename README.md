@@ -22,11 +22,11 @@ The Adversarial Game Optimization Algorithm (AGOA) presents an innovative framew
 
 ### 2. Schematic Diagram of AGOA
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/b65c6a61-82a0-4179-8c80-e6f562cc26ae" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b65c6a61-82a0-4179-8c80-e6f562cc26ae" />
 
 
 ### 3. The pseudocode of AGOA optimizer
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/e36b2013-7af4-4049-b9e8-92bca89a3569" />
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/e36b2013-7af4-4049-b9e8-92bca89a3569" />
 
 
 ### 4. The MATLAB code of AGOA
