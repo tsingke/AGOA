@@ -6,13 +6,9 @@
 ```
  Authors：Conglin Li, Qingke Zhang*, Shuzhao Pang，Wenliang Chen， Huaxiang Zhang
 ```
-*  School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
+ School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
-> Corresponding Author: **Qingke Zhang**
-
-> Email: tsingke@sdnu.edu.cn
-
-> Tel :  +86-13953128163
+> Corresponding Author: **Qingke Zhang** ， Email: tsingke@sdnu.edu.cn ， Tel :  +86-13953128163
 
 
 ### 1. Introduction
