@@ -1,7 +1,7 @@
 
 ## AGOA: Adversarial Game Optimization Algorithm
 
-**Title**: Adversarial Game Optimization Algorithm: A novel metaheuristic optimization approach for complex optimization problem
+**Title**: Adversarial Game Optimization Algorithm: A game-theoretic metaheuristic for efficient global optimization and engineering application
 
 ```
  Authors：Conglin Li, Qingke Zhang*, Shuzhao Pang，Wenliang Chen， Huaxiang Zhang
@@ -10,6 +10,7 @@
 
 > Corresponding Author: **Qingke Zhang** ， Email: tsingke@sdnu.edu.cn ， Tel :  +86-13953128163
 
+This paper has been formally submitted to the international journal **Knowledge-Based Systems** (JCR Q1）
 
 ### 1. Introduction
 
