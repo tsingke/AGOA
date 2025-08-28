@@ -4,13 +4,13 @@
 **Title**: Adversarial Game Optimization Algorithm: A game-theoretic metaheuristic for efficient global optimization and engineering application
 
 ```
- Authors：Conglin Li, Qingke Zhang*, Shuzhao Pang，Wenliang Chen， Huaxiang Zhang
+ Authors：Conglin Li， Qingke Zhang*， Junqing Li, Sichen Tao and Diego Oliva
 ```
  School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
 > Corresponding Author: **Qingke Zhang** ， Email: tsingke@sdnu.edu.cn ， Tel :  +86-13953128163
 
-This paper has been formally submitted to the international journal **Knowledge-Based Systems** (JCR Q1）
+This paper has been formally submitted to the international journal **Information Sciences** (JCR Q1）
 
 ### 1. Introduction
 
