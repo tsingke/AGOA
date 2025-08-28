@@ -6,7 +6,13 @@
 ```
  Authors：Conglin Li， Qingke Zhang*， Junqing Li, Sichen Tao and Diego Oliva
 ```
- School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
+> 1. School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
+> 
+> 2. School of Information Science and Engineering, Yunnan Normal University,  Yunan 650500, China
+> 
+> 3. Faculty of Engineering, University of Toyama, Toyama-shi 930-8555, Japan
+> 
+> 4. Depto. de Ingeniería Electro-Fótonca, Universidad de Guadalajara, CUCEI, 44430, Guadalajara, México
 
 > Corresponding Author: **Qingke Zhang** ， Email: tsingke@sdnu.edu.cn ， Tel :  +86-13953128163
 
