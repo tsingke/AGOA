@@ -16,7 +16,7 @@
 
 > Corresponding Author: **Qingke Zhang** ， Email: tsingke@sdnu.edu.cn ， Tel :  +86-13953128163
 
-This paper is being considered for submission to the international journal **Information Sciences** (JCR Q1）
+This paper is being considered for submission to the journal **Information Sciences** (JCR Q1）
 
 ### 1. Introduction
 
